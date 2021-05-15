@@ -1,0 +1,64 @@
+a
+{
+    text-align: center;
+    margin-right: -50px;
+}
+body
+{
+    background-color:rgba(0,255,0,0.3);;
+}
+button
+{
+    color: red;
+    font-size: 20px;
+    font-weight: double;
+    border: 5px solid purple;
+    border-radius: 25px;
+}
+table
+{
+    background-color: LimeGreen;
+    border: 5px solid hotpink;
+    font-size: 120%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+}
+input
+{
+    font-size: 120%;
+    border:3px solid green;
+    border-radius: 25px;
+}
+#o1
+{
+    color:hotpink;
+}
+#email
+{
+    background-image: url('./Images/emil.png');
+    background-size: 25px;
+    background-repeat: no-repeat; 
+    padding-left: 25px;
+}
+#password
+{
+    background-image: url('./Images/password.png');
+    background-size: 25px;
+    background-repeat: no-repeat; 
+    padding-left: 25px;
+}   
+#p
+{
+    background-image: url('images/p.png');
+    background-size: 25px;
+    background-repeat: no-repeat; 
+    padding-left: 25px;
+}
+#p1
+{
+    background-image: url('images/p.png');
+    background-size: 25px;
+    background-repeat: no-repeat; 
+    padding-left: 25px;
+}
